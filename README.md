@@ -25,8 +25,9 @@ Ao incentivar as meninas desde cedo a participarem dessas aulas, estamos não ap
 
 - Conheça a história de diversas mulheres na tecnologia!
 
-[Mulheres na Tecnologia ](https://www.notion.so/Mulheres-na-Tecnologia-4fe4d4a28d6b4747b9cc9e7fe4d1ae4e?pvs=21)
+<a href="mulheres-tech.html">Mulheres na Tecnologia</a>
 
 - Conheça iniciativas parecidas em Pernambuco e todo o Brasil!
 
-[Iniciativas de mulheres na computação](https://www.notion.so/Iniciativas-de-mulheres-na-computa-o-2641d7c18d1e42ff924d13a1f45a6b3e?pvs=21)
+<a href="iniciativas.html">Iniciativas de mulheres na computação</a>
+
