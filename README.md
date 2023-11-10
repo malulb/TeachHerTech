@@ -17,7 +17,7 @@ Ao incentivar as meninas desde cedo a participarem dessas aulas, estamos não ap
 
 - Por que aprender a programar e incentivar meninas a adentrarem na área?
 
-[Por que ensinar programação para meninas?](https://www.notion.so/Por-que-ensinar-programa-o-para-meninas-be3feedeed3b484abaee131882f494d7?pvs=21)
+<a href="prog-meninas.html">Por que ensinar programação para meninas?</a>
 
 - É novo na área de programação? Não tem problema!
 
